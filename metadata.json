@@ -1,0 +1,6 @@
+{
+  "name": "Research Digest AI: Oracle News Workflow",
+  "description": "AI-assisted research workflow automating structured, reliable article summaries from spreadsheets with Yahoo Finance Oracle coverage and exportable Google Docs reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
